@@ -818,6 +818,12 @@ background: linear-gradient(to right, #f64f59, #c471ed, #12c2e9); /* W3C, IE 10+
 }
 
 .about .video-box {
+  background: url("../img/about.jpg") center center no-repeat;
+  background-size: cover;
+  min-height: 500px;
+} 
+
+.about .video-boxx {
   background: url("../img/consultorio-view.jpg") center center no-repeat;
   background-size: cover;
   min-height: 500px;
